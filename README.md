@@ -30,6 +30,10 @@ The Jupyter notebook contains the entire report generation, and is idempotent so
 - Parent issue: [Improve Airflow's debugging story](https://github.com/apache/airflow/issues/40975)
 - Survey link: [Airflow Debugging Survey 2024](https://docs.google.com/forms/d/e/1FAIpQLSep0asKJ3Z2I2Cnm00d9jmGh3xYPR1BKVjWqOOadw4rKgb1eA/closedform)
 
+## Acknowledgements
+
+The survey report's summary and free text feedback (Q1.2.1, Q1.4, etc.) have been summarized manually with some help from ChatGPT, kudos!
+
 ## Credits
 
 - @kaxil
